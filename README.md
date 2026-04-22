@@ -1,2 +1,2 @@
 # Ishetstuk
-Is het stuck docker image
+Is het stuk docker image
